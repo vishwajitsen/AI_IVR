@@ -1,0 +1,88 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pandas
+aiohttp
+websockets
+python-multipart
+#azure-ai-openai
+azure-cognitiveservices-speech
+azure-identity
+openai
+jiwer
+
+azure-cognitiveservices-speech
+openpyxl
+
+sounddevice 
+numpy 
+scipy 
+
+azure-cognitiveservices-speech 
+
+ringcentral
+
+
+websockets
+requests
+azure-cognitiveservices-speech
+
+pandas
+textblob
+
+faker
+openpyxl
+rich
+colorama
+sounddevice
+asyncio
+pyngrok
+Flask
+pyngrok
+
+
+openpyxl
+python-dateutil
+cryptography
+
+# Core Web Framework
+
+Werkzeug==3.0.1
+
+# Async
+aiofiles==24.1.0
+aiohttp==3.9.3
+
+
+
+
+
+# Email support
+pydantic>=2.7.0,<3.0.0
+
+
+# HTTP / API communication
+
+urllib3==2.2.1
+
+# JSON schema, validation
+jsonschema==4.21.1
+
+# MCP (Model Context Protocol) — Updated Packages
+mcp
+
+
+# MCP Plugin Helper Utilities
+anyio==4.6.2
+starlette==0.36.2
+
+# Logging
+python-dateutil==2.9.0
+colorlog==6.8.2
+
+# Security
+cryptography==42.0.1
+
+
+
