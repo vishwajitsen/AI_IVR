@@ -3,7 +3,11 @@ import os
 import json
 from dotenv import load_dotenv
 load_dotenv()
+import os
+from dotenv import load_dotenv
 
+# Load the environment variables from the .env file
+load_dotenv()
 from flask import Flask, request, redirect, jsonify
 from epic_oauth import EpicOAuthClient
 from fhir_appointment import FHIRAppointmentClient

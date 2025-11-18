@@ -86,3 +86,12 @@ cryptography==42.0.1
 
 
 
+#FOR AI IVR PASSWORD RESET 
+
+Flask
+python-dotenv
+requests
+pandas
+openpyxl
+ringcentral  # or the official SDK package name you use
+pydub      # if you want audio manipulation

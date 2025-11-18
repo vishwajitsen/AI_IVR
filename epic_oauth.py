@@ -6,6 +6,12 @@ import secrets
 import requests
 from urllib.parse import urlencode
 
+import os
+from dotenv import load_dotenv
+
+# Load the environment variables from the .env file
+load_dotenv()
+
 EPIC_AUTH_BASE = "https://fhir.epic.com/interconnect-fhir-oauth/oauth2"
 EPIC_FHIR_BASE = "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/STU3"
 
