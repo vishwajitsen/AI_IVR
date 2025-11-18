@@ -1,4 +1,6 @@
 # appointment_find.py
+
+#work in this ConnectionAbortedError
 import os
 import requests
 from dotenv import load_dotenv
